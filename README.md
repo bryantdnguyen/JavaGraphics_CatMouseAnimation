@@ -1,6 +1,6 @@
 # JavaGraphics_CatMouseAnimation
 
-Program name: "The Great Cat Chase". This program simulates a mouse ball moving in any direction, it can bounce off of the  
+This program simulates a mouse ball moving in any direction, it can bounce off of the  
 walls and corners of the UI; the user is welcome to input mouse/cat speed and mouse's direction. 
 Additionally, there is a cat ball that chases the mouse ball and moves in a direction which has curved motion.
 
